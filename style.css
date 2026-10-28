@@ -1,0 +1,200 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* text-decoration: none; */
+}
+
+.divs {
+    width: 100%;
+    height: 70px;
+    background: white;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 700px;
+}
+
+.div1 {
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.img1 {
+    width: 50px;
+    height: 50px;
+
+    border-radius: 100%;
+}
+
+.div2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+
+.div3 {
+    width: 100%;
+    height: 95vh;
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.div4 {
+    width: 35%;
+    height: 95vh;
+    background: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.text1 {
+    color: white;
+}
+
+input {
+    width: 160px;
+    height: 30px;
+    border-radius: 10px;
+    padding-left: 5px;
+}
+
+.btn1 {
+    width: 160px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+
+.div5 {
+    width: 65%;
+    height: 95vh;
+    background: url(coffee.avif) no-repeat center / cover;
+}
+
+.div6 {
+    width: 35%;
+    height: 30vh;
+}
+
+.text2 {
+    color: grey;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+.text3 {
+    color: black;
+    padding-left: 100px;
+}
+
+.div7 {
+    width: 100%;
+    height: 50vh;
+}
+
+.div8 {
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+
+.dnkar2 {
+    width: 300px;
+    height: 400px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+    gap: 15px;  
+}
+
+.images1 {
+    width: 100%;
+    height: 200px;
+    background: url(cake1.avif) no-repeat center / cover;
+    border-radius: 15px;
+}
+
+.images2 {
+    width: 100%;
+    height: 200px;
+    background: url(cake2.jpg) no-repeat center / cover;
+    border-radius: 15px;
+}
+
+.images3 {
+    width: 100%;
+    height: 200px;
+    background: url(cake3.avif) no-repeat center / cover;
+    border-radius: 15px;
+}
+
+.images4 {
+    width: 100%;
+    height: 200px;
+    background: url(cake4.jpg) no-repeat center / cover;
+    border-radius: 15px;
+}
+
+.div9 {
+    width: 100%;
+    height: 75vh;
+    background: rgb(205, 205, 205);
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+    gap: 100px;
+}
+
+.div10 {
+    width: 60%;
+    height: 70vh;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    flex-direction: column;
+    padding-left: 20px;
+}
+
+.div11 {
+    width: 35%;
+    height: 70vh;
+    background: url(cafe\ restaurant.avif) no-repeat center / cover;
+    border-radius: 10px;
+}
+
+.div12 {
+    width: 100%;
+    height: 15vh;
+    background: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1100px;
+}
+
+.nkar1 {
+    width: 25px;
+    height: 25px;
+
+}
+
+.div14 {
+    color: white;
+}
